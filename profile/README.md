@@ -43,6 +43,16 @@ _(These repositories remain under their original accounts to preserve their hist
 
 ## Current interests & explorations
 
+### Game Engines, Real-Time Systems & Technical Leadership
+
+Continuing to explore the engineering behind games and real-time interactive experiences, with a particular interest in the breadth of game engine development:
+
+- Real-time rendering and computer graphics, alongside engine architecture and runtime systems
+- Performance, memory, concurrency, and platform-specific optimization
+- Developer workflows, editor capabilities, build pipelines, and production tooling
+- Applying recent advances in machine learning and AI workflows to game development, engine tooling, and interactive experiences
+- Technical direction: setting engineering priorities, guiding teams, and bringing systems together into cohesive products
+
 ### Low-Level Computing & Semiconductor Technologies
 
 Exploring the hardware foundations of modern computing, particularly the technologies enabling increasingly demanding AI workloads.
