@@ -4,9 +4,13 @@
 
 Welcome to my personal engineering lab, a space for technical projects, experiments, and continuous learning.
 
-My background is in software engineering, computer graphics, and real-time technologies, with professional experience at Silicon Studio and Unity.
+## About me
+
+I'm **Wilfrid Girard**, a software engineer with a background in computer graphics and real-time technologies, and professional experience at Silicon Studio and Unity.
 
 I'm particularly interested in understanding computing systems across the entire technology stack, from semiconductor technologies and processor architectures to high-performance software, AI infrastructure, and machine learning applications.
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/wilfrid/).
 
 This organization brings together my current explorations and selected work from my earlier GitHub accounts.
 
